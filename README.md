@@ -17,10 +17,10 @@
 
 <br>
 
-**mainClass.java:**This is the main class and where the main method is.
+**mainClass.java:** This is the main class and where the main method is.
 
 
-<br>**The Complete project files is contain in .zip file named "Student2.zip".
+<br>**The Complete project files is contain in .zip file named "Student2.zip".**
 
 .
 
